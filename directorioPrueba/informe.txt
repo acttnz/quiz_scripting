@@ -1,0 +1,15 @@
+Archivo: file1.txt
+Número de líneas: 1
+Número total de palabras: 10
+Veces que aparece 'Python': 1
+
+Archivo: file2.txt
+Número de líneas: 3
+Número total de palabras: 28
+Veces que aparece 'Python': 1
+
+Archivo: file3.txt
+Número de líneas: 2
+Número total de palabras: 11
+Veces que aparece 'Python': 1
+
