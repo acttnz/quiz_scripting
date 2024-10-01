@@ -1,0 +1,3 @@
+Python es un lenguaje de programacion facil de aprender.
+Muchos desarrolladores lo eligen por su sencillez y versatilidad.
+Con Python, puedes crear aplicaciones, analizar datos y mucho mas.
